@@ -1,0 +1,10 @@
+{
+  "port": 8080,
+  "enableSSL": false,
+  "keystoreFile": "",
+  "keystorePassword": "",
+  "daemonURL": "https://wallet.dero.io:443",
+  "walletAddress": "dERokevAZEZVJ2N7o39VH81BXBqX9ojtncnPTDMyiVbmYiTXQY93AUCLcor9xsWCKWhYy25ja89ikZWXWab9kXRB7LYfUmbQyS",
+  "reserveSize": 10,
+  "job-interval": 200
+}
