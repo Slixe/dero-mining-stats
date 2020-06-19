@@ -21,14 +21,14 @@ new Vue({
       },
       themes: {
         dark: {
-          primary: '#383B3E',
-          secondary: '#2A2D2F',
-          anchor: '#303030',
+          primary: '#2A2D2F',
+          secondary: '#383B3E',
+          anchor: '#45484B',
         },
         light: {
           primary: '#DCDCDC',
           secondary: '#DCDCDC',
-          anchor: '#B0C4DE',
+          anchor: '#BDBDBD',
         }
       },
       dark: true

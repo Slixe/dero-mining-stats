@@ -23,7 +23,7 @@ compileJava.options.encoding = 'UTF-8'
 mainClassName = 'fr.slixe.mining.Main'
 
 group 'fr.slixe'
-version '1.0.0'
+version '1.0.1'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
@@ -50,7 +50,7 @@ dependencies {
 			'org.apache.logging.log4j:log4j-core:2.10.0',
 			)
 
-	implementation('fr.litarvan.paladin:paladin-framework:1.2.0') {
+	implementation('fr.litarvan.paladin:paladin-framework:1.2.1') {
 		exclude group: 'org.apache.httpcomponents', module: 'httpcore-nio'
 		exclude group: 'org.apache.logging.log4j', module: 'log4j-core'
 	}
