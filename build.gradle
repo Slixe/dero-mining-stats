@@ -65,7 +65,7 @@ task fatJar(type: Jar) {
 	}
 	with jar
 
-	baseName = 'dero-mining'
+	baseName = 'dero-mining-stats'
 
 	manifest {
 		attributes 'Main-Class': mainClassName
